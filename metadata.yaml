@@ -1,5 +1,8 @@
 _repo: USDA-Farmers-Bulletin-No-1014-Wintering-Bees-in-Cellars_59485
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59485-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Demuth, George S.
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '44850'
     url: http://www.gutenberg.org/2009/agents/44850
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59485#USDA-Farmers-Bulletin-No-1014-Wintering-Bees-in-Cellars
 gutenberg_issued: '2019-05-12'
 gutenberg_type: Text
 identifiers:
